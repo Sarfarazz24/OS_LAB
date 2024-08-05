@@ -21,7 +21,7 @@ LAB PROGRAMS
 ![sample input](EXP1B/programoutput.jpeg)
 
 ##tested input and output of SJF
-![tested input](EXP1B/testedboutput.jpeg)
+![tested input](EXP1B/testedoutput.jpeg)
 
 # RoundRobin program status
 
