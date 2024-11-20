@@ -3,7 +3,7 @@
 ![program file](Producer&Consumerfile.c)
 
 # sample output
-![sample output](Producer&Consumer_IO_595.jpeg)
+![sample output](sample output.jpeg)
 
 # tested output
-![tested output](Producer&Consumer_EO_595.jpeg)
+![tested output](tested output.jpeg)
